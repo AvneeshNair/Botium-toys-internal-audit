@@ -24,7 +24,7 @@ This project documents an internal IT security audit conducted for a fictional c
 
 ## Artifacts
 - **Controls and Compliance Checklist:**  
-  `Botium_Toys_Controls_and_Compliance_Checklist_Formatted.docx`
+  `Controls_and_Compliance_Checklist.pdf`
 
 ## Recommendations Summary
 The audit recommends implementing least privilege access controls, encryption, centralized password management, backups and disaster recovery planning, and intrusion detection systems to reduce organizational risk and improve compliance posture.
